@@ -1,0 +1,24 @@
+// File: Assets/Editor/RemoveDOTweenOutlineModule.cs
+#if UNITY_EDITOR
+using UnityEditor;
+using System.IO;
+
+[InitializeOnLoad]
+public static class RemoveDOTweenOutlineModule
+{
+    // Path relative to project root
+    private const string modulePath = "Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs";
+
+    static RemoveDOTweenOutlineModule()
+    {
+        // If the file exists (and you don't have the EPOOutline plugin), delete it
+        if (File.Exists(modulePath))
+        {
+            File.Delete(modulePath);
+            File.Delete(modulePath + ".meta");   // also remove the .meta
+            AssetDatabase.Refresh();             // refresh the AssetDatabase so Unity recompiles
+            Debug.LogWarning("Removed DOTweenModuleEPOOutline.cs because its required types (EPOOutline) are missing.");
+        }
+    }
+}
+#endif
