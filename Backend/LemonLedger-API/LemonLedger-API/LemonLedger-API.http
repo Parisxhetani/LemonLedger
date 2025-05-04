@@ -1,0 +1,6 @@
+@LemonLedger_API_HostAddress = http://localhost:5251
+
+GET {{LemonLedger_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

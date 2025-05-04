@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|c:\\users\\user\\documents\\github\\lemonledger\\backend\\lemonledger-api\\gameservice\\interfaces\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|solutionrelative:gameservice\\interfaces\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|c:\\users\\user\\documents\\github\\lemonledger\\backend\\lemonledger-api\\gameservice\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|solutionrelative:gameservice\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|c:\\users\\user\\documents\\github\\lemonledger\\backend\\lemonledger-api\\gameservice\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|solutionrelative:gameservice\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|c:\\users\\user\\documents\\github\\lemonledger\\backend\\lemonledger-api\\gameservice\\models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|solutionrelative:gameservice\\models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|c:\\users\\user\\documents\\github\\lemonledger\\backend\\lemonledger-api\\gameservice\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|solutionrelative:gameservice\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|c:\\users\\user\\documents\\github\\lemonledger\\backend\\lemonledger-api\\gameservice\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|solutionrelative:gameservice\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|c:\\users\\user\\documents\\github\\lemonledger\\backend\\lemonledger-api\\gameservice\\interfaces\\iloaninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|solutionrelative:gameservice\\interfaces\\iloaninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|c:\\users\\user\\documents\\github\\lemonledger\\backend\\lemonledger-api\\gameservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|solutionrelative:gameservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|c:\\users\\user\\documents\\github\\lemonledger\\backend\\lemonledger-api\\gameservice\\dtos\\loanresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9316A8-72D7-403F-BC08-4A0EF15451A2}|GameService\\GameService.csproj|solutionrelative:gameservice\\dtos\\loanresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Models\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "GameService\\Models\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Models\\SavingsAccount.cs",
+              "RelativeToolTip": "GameService\\Models\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:54:51.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "GameService\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Models\\Player.cs",
+              "RelativeToolTip": "GameService\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:54:27.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Data\\GameDbContext.cs",
+              "RelativeDocumentMoniker": "GameService\\Data\\GameDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Data\\GameDbContext.cs",
+              "RelativeToolTip": "GameService\\Data\\GameDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:51:54.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "GameService\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "GameService\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:46:30.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "GameService\\Services\\LoanService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Services\\LoanService.cs",
+              "RelativeToolTip": "GameService\\Services\\LoanService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:42:33.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\appsettings.json",
+              "RelativeDocumentMoniker": "GameService\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\appsettings.json",
+              "RelativeToolTip": "GameService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T03:42:31.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Interfaces\\ILoanService.cs",
+              "RelativeDocumentMoniker": "GameService\\Interfaces\\ILoanService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Interfaces\\ILoanService.cs",
+              "RelativeToolTip": "GameService\\Interfaces\\ILoanService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:41:55.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILoanInterface.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Interfaces\\ILoanInterface.cs",
+              "RelativeDocumentMoniker": "GameService\\Interfaces\\ILoanInterface.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\Interfaces\\ILoanInterface.cs",
+              "RelativeToolTip": "GameService\\Interfaces\\ILoanInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:41:29.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoanResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\DTOs\\LoanResponseDto.cs",
+              "RelativeDocumentMoniker": "GameService\\DTOs\\LoanResponseDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\LemonLedger\\Backend\\LemonLedger-API\\GameService\\DTOs\\LoanResponseDto.cs",
+              "RelativeToolTip": "GameService\\DTOs\\LoanResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:40:57.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
